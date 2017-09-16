@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"c",
+				"contrib"
+			],
+			[
+				"line",
+				"lines"
+			],
+			[
+				"mp",
+				"mpesabal"
+			],
+			[
+				"m",
+				"mpesapin"
+			],
+			[
+				"Ma",
+				"Man"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"HU",
+				"HumanBeing"
+			],
+			[
+				"A",
+				"age"
+			],
+			[
+				"Human",
+				"HumanBeing"
+			],
+			[
+				"a",
+				"Austin"
+			],
+			[
+				"word",
+				"wordcount"
+			],
+			[
+				"sent",
+				"sentlist"
+			],
+			[
+				"sen",
+				"Sentence"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"b",
+				"birthdays"
+			],
+			[
+				"n",
+				"new_sentence"
+			],
+			[
+				"fi",
+				"fizzBuzz"
+			],
+			[
+				"di",
+				"divisibleby3"
+			],
+			[
+				"d",
+				"divisibleby5"
+			],
+			[
+				"fizz",
+				"fizzBuzzNum"
+			],
+			[
+				"an",
+				"answerNumber"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"re",
+				"rem1"
+			],
+			[
+				"ne",
+				"new_list1"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"my",
+				"myAge"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/profille/models.py",
+			"settings":
+			{
+				"buffer_size": 166,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tryten/settings.py",
+			"settings":
+			{
+				"buffer_size": 3112,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tryten/urls.py",
+			"settings":
+			{
+				"buffer_size": 1042,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/austin/Documents/Python",
+		"/home/austin/Desktop/Websiteaustin/src",
+		"/home/austin/Desktop/Websiteaustin/src/profille"
+	],
+	"file_history":
+	[
+		"/home/austin/Documents/Python/bulletpointadder.py",
+		"/home/austin/Documents/Python/pword.py",
+		"/home/austin/Documents/Python/tableprinter.py",
+		"/home/austin/Desktop/hello.py",
+		"/home/austin/Desktop/Websiteaustin/tryten/tryten/settings.py",
+		"/home/austin/Documents/Python/fizzBuzz.py",
+		"/home/austin/website/website/website/urls.py",
+		"/home/austin/Documents/Python/age.py",
+		"/home/austin/Documents/website/website/website/settings.py",
+		"/home/austin/website/website/website/settings.py",
+		"/home/austin/website/website/manage.py",
+		"/home/austin/Documents/Python/bulletpointadder,py",
+		"/home/austin/Documents/Python/pword,py",
+		"/home/austin/Documents/Python/guesthenumber.py",
+		"/home/austin/Documents/Python/spam.py",
+		"/home/austin/Documents/Python/assinment.py",
+		"/home/austin/Documents/Python/allguests.py",
+		"/home/austin/Documents/mykenyantutor/mykenyantutor.html",
+		"/home/austin/Documents/Python/fantasygame.py",
+		"/home/austin/Documents/Python/days.py",
+		"/home/austin/Documents/Python/tuple.py",
+		"/home/austin/Documents/Python/OOp.py",
+		"/home/austin/Documents/Python/wordcounter.py",
+		"/home/austin/Documents/Python/stringassinment2.py",
+		"/home/austin/Documents/Python/stringcharactercounter.py",
+		"/home/austin/Documents/Python/tictactoe.py",
+		"/home/austin/Documents/Python/charactercount.py",
+		"/home/austin/Documents/Python/list.py",
+		"/home/austin/Documents/Python/magic8ball2.py",
+		"/home/austin/Documents/Python/names.py",
+		"/home/austin/Documents/Python/strings.py",
+		"/home/austin/Documents/Python/Collatz.py",
+		"/home/austin/Documents/Python/fizzbuzz2.py",
+		"/home/austin/Documents/Python/magic8ball.py",
+		"/home/austin/Documents/Python/zerdivide.py",
+		"/home/austin/Documents/Python/samename.py",
+		"/home/austin/Documents/Python/while_name.py",
+		"/home/austin/Documents/Python/gausadd.py",
+		"/home/austin/Documents/Python/swordfish.py",
+		"/home/austin/Documents/Python/while_name",
+		"/home/austin/Documents/Python/entername.py",
+		"/media/austin/8C54625D546249D2/Users/Austin Kweyu/exchange.py",
+		"/home/austin/Documents/for.py",
+		"/home/austin/Documents/swordfish.py",
+		"/home/austin/Documents/age.py",
+		"/home/austin/Documents/entername.py",
+		"/home/austin/Documents/names.py",
+		"/home/austin/Documents/austin.py",
+		"/home/austin/Documents/hello.py",
+		"/home/austin/Documents/fizzBuzz.py",
+		"/home/austin/.cache/.fr-YD3FDs/Python-3.6.1/setup.py",
+		"/media/austin/Local Disk/C/12483.c",
+		"/media/austin/Local Disk/C/hello.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Bye",
+			"newjokes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/profille/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/tryten/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1084,
+								1084
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/tryten/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								763,
+								763
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "websiteaustin.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

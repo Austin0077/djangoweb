@@ -1,2 +1,2 @@
-# djangoweb
-a django python web app
+# websitedjango
+# websitedjango
